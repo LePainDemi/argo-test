@@ -1,0 +1,6 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jaime-trop-les-kebabs-et-les-femmes
+spec:
+  replicas: 2
